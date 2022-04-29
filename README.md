@@ -1,2 +1,2 @@
-# Minecraft_inUrsina
-This is Minecraft in Ursina Engine for Python
+# Zcraft
+Minecraft Clone, made in Python
